@@ -8,7 +8,7 @@
 ██║     ██║  ██║███████╗
 ╚═╝     ╚═╝  ╚═╝╚══════╝
 
-FULLY AUTOMATED ENTERPRISES
+“Automation applied to an efficient operation will magnify the efficiency.” — :contentReference[oaicite:4]{index=4}
 </pre>
 
 > AI Engineer • Automation Systems • Linux • Autonomous Infrastructure
