@@ -1,4 +1,4 @@
-<div align="center>
+
 
 ![Arch User](https://img.shields.io/badge/Arch-I_Use_Btw-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
@@ -6,5 +6,4 @@
 
 ![Accelerationist](https://img.shields.io/badge/Accelerationist-111111?style=for-the-badge&logo=rocket&logoColor=white)
 
-</div>
 
